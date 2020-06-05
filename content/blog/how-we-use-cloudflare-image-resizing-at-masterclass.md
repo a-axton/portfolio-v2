@@ -1,5 +1,7 @@
 ---
 title: How we use Cloudflare image resizing at MasterClass
+tags:
+  - web performance
 date: 2020-05-30T19:12:08.751Z
 thumbnail: assets/operahaus-top.jpg
 ---
